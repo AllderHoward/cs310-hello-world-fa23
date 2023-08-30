@@ -17,5 +17,8 @@ public class HelloWorld {
     private void f2() {
         // PlaceHolder Method (v2.0)
     }
+     private void f1() {
+        //Placeholder method (v3.0)
+    }
 
 }
